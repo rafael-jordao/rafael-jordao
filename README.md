@@ -1,6 +1,6 @@
 - 👋 Me chamo Rafael Jordão
-- 👀 Tenho interesse em desenvolvimento Web
-- 🌱 Estou estudando HTML, CSS, JavaScript, React Native e NodeJS
+- 👀 Quero me tornar um desenvolvedor Front-end
+- 🌱 Estou estudando HTML, CSS, JavaScript, ReactJS e NodeJS
 - 💞️ Buscando crescer e me conectar com novas oportunidades através do código
 - 📫 rafaeljordao.picado@gmail.com / instagram: _rafaeljordao
 
