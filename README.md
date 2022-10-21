@@ -1,6 +1,5 @@
 - 👋 Me chamo Rafael Jordão
-- 👀 Desenvolvedor Front-end Júnior | ReactJS
-- 🌱 Estou estudando HTML, CSS, JavaScript, ReactJS e NodeJS
+- 👀 Desenvolvedor Full Stack Júior | ReactJS | Javascript | C#
 - 💞️ Buscando crescer e me conectar com novas oportunidades através do código
 - 📫 rafaeljordao.picado@gmail.com / instagram: _rafaeljordao
 
