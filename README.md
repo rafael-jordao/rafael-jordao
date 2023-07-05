@@ -1,5 +1,5 @@
 - 👋 Me chamo Rafael Jordão
-- 👀 Desenvolvedor Full Stack | ReactJS | Typescript
+- 👀 Desenvolvedor Full Stack | ReactJS | NodeJS
 - 📫 rafaeljordao.picado@gmail.com / instagram: _rafaeljordao
 
 <h3 align="left">Linguagens e ferramentas:</h3>
